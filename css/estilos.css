@@ -21,3 +21,10 @@ body{
 	margin:20px;
 	padding:20px;
 }
+footer{
+    text-align: center;
+    background: coral;
+    color: #fff;
+    margin: 20px;
+    padding: 20px;
+}
