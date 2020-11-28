@@ -14,9 +14,10 @@ body{
     color: crimson;
 }
 
-.header{
-    background: coral;
-    width: 70%;
-    margin: 20px;
-    padding: 20px;
+.cabecera{
+
+	background:blue;
+	color:#fff;
+	margin:20px;
+	padding:20px;
 }
