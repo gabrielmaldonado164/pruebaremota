@@ -13,3 +13,11 @@ body{
     border: 1px solid #000;
     color: crimson;
 }
+
+footer{
+    text-align: center;
+    background: coral;
+    color: #fff;
+    margin: 20px;
+    padding: 20px;
+}
