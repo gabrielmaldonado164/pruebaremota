@@ -1,5 +1,12 @@
-pirueba desde git
-Cambio ahora desde la conexion SS
+prueba desde git
+Cambio ahora desde la conexion SSH
+
+Se hace un rebase exp 1
+
+
+SE hace un rebase desde el exp
 
 exp 1 master
+
+expermiteno dede la otra rama
 
